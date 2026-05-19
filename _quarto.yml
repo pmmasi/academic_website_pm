@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - research.qmd
+    - teaching.qmd
+    - grants_awards.qmd
+    - cv.qmd
+    - service.qmd
+
+website:
+  title: "Pedro Masi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: grants_awards.qmd
+        text: Grants & Awards
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: service.qmd
+        text: Service
+
+format:
+  html:
+    theme: flatly
+    toc: false
+    css: styles.css

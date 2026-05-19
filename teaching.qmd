@@ -1,0 +1,37 @@
+---
+#Title: "Teaching"
+---
+
+## Instructor of Record
+
+| Course | Title | Semester | Syllabus |
+|--------|-------|----------|----------|
+| STAT 201 | Introduction to Statistics | Fall 2025 | [PDF](stats_291_syllabus_pm.pdf) |
+
+### Student Feedback
+
+> "This past semester with you havs been incredibly fun, and I've learned how much you truly care for the students you teach! It truly is professors like you who build the great culture we have at UTK!" — [Full review (PDF)](student_1_feedback.jpeg)
+
+> "First off, I would like to thank you for your persistence in teaching such a large class and an arguably difficult topic. Your hard work and dedication have helped me learn statistics better than I have been able to in the past few times I’ve taken it. It has been a blessing to be in your class."
+
+> "Pedro is the nicest and most helpful professor. He is willing to drop everything and get on a zoom to help at anytime and that is so rare. I am so thankful that I had Professor Masi as my Stats professor, he was the best!"
+
+---
+
+## Guest Lectures
+
+- "Clustering Techniques" — Data Mining (BZAN 542), UTK, Sept 2025
+- "Probability Theory" — Introductory Statistics (STAT 201), UTK, Mar 2025
+
+---
+
+## Teaching Assistant — University of Tennessee
+
+| Course | Title | Instructor | Semester |
+|--------|-------|------------|----------|
+| STAT 505 | [Quantitative Methods MBA](https://catalog.utk.edu/preview_course_nopop.php?catoid=27&coid=141147) | Prof. Allen Pannell | Spring 2026 |
+| BZAN 557 | [Text Mining](https://catalog.utk.edu/preview_course_nopop.php?catoid=55&coid=361260) | Prof. Wenjun Zhou | Spring 2026 |
+| STAT 201 | Introduction to Statistics | Prof. Adam Spanbauer | Summer 2025 |
+| BUAD 503 | [Business Communications MBA](https://catalog.utk.edu/preview_course_nopop.php?catoid=55&coid=361681) | Prof. Angel Norman | Summer 2024 |
+| BZAN 555 | [Supply Chain Analytics](https://catalog.utk.edu/preview_course_nopop.php?catoid=25&coid=133877) | Prof. Sean Willems | Spring 2024 |
+| BZAN 542 | [Data Mining Methods](https://catalog.utk.edu/preview_course_nopop.php?catoid=27&coid=141556) | Prof. ChuanRen Liu | Fall 2023 |

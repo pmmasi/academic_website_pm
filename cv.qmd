@@ -1,0 +1,9 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download PDF](Academic_CV_Pedro.pdf){.btn .btn-primary}
+
+<br>
+
+<iframe src="Academic_CV_Pedro.pdf" width="100%" height="950px" style="border:none;"></iframe>

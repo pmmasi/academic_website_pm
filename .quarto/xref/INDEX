@@ -1,0 +1,26 @@
+{
+  "cv.qmd": {
+    "cv.html": "49764ab8"
+  },
+  "extracurricular.qmd": {
+    "extracurricular.html": "4ad2f526"
+  },
+  "index.qmd": {
+    "index.html": "a7add372"
+  },
+  "research.qmd": {
+    "research.html": "8e51bb9d"
+  },
+  "teaching.qmd": {
+    "teaching.html": "fb1bd5ad"
+  },
+  "WEBSITE_PLAN.md": {
+    "WEBSITE_PLAN.html": "574f144f"
+  },
+  "grants_awards.qmd": {
+    "grants_awards.html": "ee64fe49"
+  },
+  "service.qmd": {
+    "service.html": "08f79adc"
+  }
+}

@@ -1,0 +1,74 @@
+---
+#title: "Research"
+---
+
+## Working Papers
+
+::: {.paper-entry}
+### AI Upskilling: Decoupling Skill Demand and Skill Premium
+
+Pedro Masi, Yuanyang Liu, and Chuanren Liu
+
+**Status:** Under review — *Information Systems Research* (ISR)
+
+Understanding how AI reshapes the market value of skills is essential for
+guiding effective workforce responses to labor market disruptions. We examine two
+dimensions of skill market value — skill demand intensity (the frequency with which
+employers require a skill) and skill wage premium (the salary differential associated
+with possessing a skill) — across a comprehensive set of over 20,000 skills in 442 skill
+categories. To this end, we measure occupational AI exposure using dynamic LLM
+embeddings that capture the textual similarity between AI patent descriptions and
+O*NET occupational task descriptions. Drawing on 347 million U.S. job postings from
+2010 to 2023 and employing a two-stage least squares approach with a breakthrough
+patent instrumental variable, we find three main results. First, occupations with greater
+AI exposure exhibit stronger employer demand for both human-centric skills (e.g.,
+critical thinking, communication) and foundational computer science skills. Second,
+only computer science and system design skills command higher wage premiums
+in response to AI exposure; human-centric skills, despite rising in demand, do not
+generate corresponding salary rewards. Third, both dimensions exhibit meaningful
+heterogeneity across occupations and job zones: management occupations experience
+broad upskilling across human-centric, technical, and domain skills, while computer
+occupations face rising demand for critical thinking yet negative salary premiums for
+those same skills. These findings reconcile conflicting narratives in the literature by
+showing that AI can simultaneously increase the importance of skills while failing to
+raise their monetary value, thereby producing both upskilling and deskilling effects
+depending on the dimension considered. Our empirical framework offers a dynamic
+tool for tracking AI-driven changes in market value of job skills to inform hiring
+strategy, education policy, and workforce development.
+:::
+
+::: {.paper-entry}
+### AI Skill Herding and Capital Investment: When Does Following the Crowd Pay Off?
+
+Pedro Masi, Howard Zhong, Yuanyang Liu, and Chuanren Liu
+
+**Status:** In preparation — target *MIS Quarterly* (MISQ)
+
+We examine how firms' AI skill adoption aligns with competitors' choices and how this alignment influences their ability to attract capital investment. We propose a novel firm-level herding measure constructed from employee AI skills observed in Revelio Labs workforce profile data, capturing the degree to which firms follow peers in accumulating AI talent. We find that when AI herding is coupled with potential absorptive capacity, firms attract approximately $630,000 more in capital investment. To our knowledge, this is the first study to link AI skill herding to firms' capital investment outcomes, demonstrating that the returns to imitation depend critically on the firm's ability to acquire and assimilate external AI knowledge.
+:::
+
+---
+
+## Papers in Progress
+
+::: {.paper-entry}
+### Decoding AI Innovation: A Transformer-Based Approach to Patent Landscaping
+
+Pedro Masi, Yuanyang Liu, and Chuanren Liu
+
+**Status:** In preparation for submission
+:::
+
+---
+
+## Conference Presentations & Invited Talks
+
+- **"Herding Toward AI"** — Americas' Conference on Information Systems (AMCIS), Reno, NV, August 2026 *(accepted, forthcoming)*
+- **"AI and the Market Value of Skills"** — DePaul Doctoral/Junior Faculty Research Symposium, Chicago, IL, March 2026
+- **"AI Upskills Human-Centric and Fundamental Computer Science Knowledge"**
+  - Workshop on Information Technologies & Systems (WITS), Nashville, TN, Dec 2025
+  - Conference of Information Systems & Technology (CIST), Atlanta, GA, Oct 2025
+- **"Tracking the New Frontiers of Work in Tennessee"** — AI Tennessee Workshop, Knoxville, TN, Jan 2025
+- **"AI Talk: Can Executives Keep Their Promises?"** — INFORMS Annual Conference, Seattle, WA, Oct 2024
+- **"AI for Business Innovation"** — Business Analytics Forum, UTK, Aug 2024
+

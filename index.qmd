@@ -1,0 +1,53 @@
+---
+title: ""
+---
+
+:::: {.columns}
+
+::: {.column width="32%"}
+![](<pedro_portrait/side_caffee_pm.jpg>){.headshot width="210px"}
+
+<p style="margin-top:0.6em; margin-bottom:0;">
+<strong style="font-size:1.05em;">Pedro Masi</strong><br>
+<span style="font-size:0.88em;">Information Systems PhD Student</span><br>
+<span style="font-size:0.88em;">📍 Knoxville, TN</span><br>
+<span style="font-size:0.88em;">University of Tennessee</span>
+</p>
+
+<p style="font-size:0.85em; line-height:2.0; margin-top:0.6em;">
+[CV (PDF)](cv.qmd)<br>
+[LinkedIn](https://www.linkedin.com/in/pedro-masi/)<br>
+[UTK Profile](https://haslam.utk.edu/people/profile/pedro-masi/)<br>
+📧 [pmmasig@gmail.com](mailto:pmmasig@gmail.com)
+</p>
+:::
+
+::: {.column width="4%"}
+:::
+
+::: {.column width="64%"}
+
+## Biography
+
+I am a PhD Student in Business Analytics and Statistics at the Haslam College of Business, University of Tennessee, Knoxville. My research lies at the intersection of AI and causal inference. I apply text mining and embedding techniques to measure technology adoption and its impact on labor and financial outcomes, converting unstructured patent and job-posting text into structured representations that feed econometric models estimating the effects of AI exposure on skill value and firm capital investments.
+
+**Research Fields**
+
+- Causal Inference 
+- Machine Learning & Representation Learning
+- Natural Language Processing (NLP)
+
+**Education**
+
+- PhD, Business Analytics and Statistics — University of Tennessee, Knoxville (2023–Present)
+- M.S., Finance and Technology — Vrije Universiteit Amsterdam (2020–2021)
+- M.S., Agricultural Economics — Kansas State University (2017–2019)
+- B.A., Agricultural Economics — Kansas State University (2011–2015)
+
+**Advisors:** Chuanren Liu, Yuanyang Liu
+
+**Job Market:** I am on the 2026–2027 academic job market.
+
+:::
+
+::::
