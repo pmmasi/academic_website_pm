@@ -1,0 +1,22 @@
+body {
+  font-family: "Georgia", serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.headshot {
+  border-radius: 8px;
+  max-width: 100%;
+}
+
+h1, h2, h3 {
+  font-family: "Helvetica Neue", sans-serif;
+}
+
+.paper-entry {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1.5rem;
+}

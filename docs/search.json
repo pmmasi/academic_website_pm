@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "Pedro Masi Information Systems PhD Student 📍 Knoxville, TN University of Tennessee\n\n\nCV (PDF) LinkedIn UTK Profile 📧 pmmasig@gmail.com\n\n\n\n\n\n\nI am a PhD Student in Business Analytics and Statistics at the Haslam College of Business, University of Tennessee, Knoxville. My research lies at the intersection of AI and causal inference. I apply text mining and embedding techniques to measure technology adoption and its impact on labor and financial outcomes, converting unstructured patent and job-posting text into structured representations that feed econometric models estimating the effects of AI exposure on skill value and firm capital investments.\nResearch Fields\n\nCausal Inference\nMachine Learning & Representation Learning\nNatural Language Processing (NLP)\n\nEducation\n\nPhD, Business Analytics and Statistics — University of Tennessee, Knoxville (2023–Present)\nM.S., Finance and Technology — Vrije Universiteit Amsterdam (2020–2021)\nM.S., Agricultural Economics — Kansas State University (2017–2019)\nB.A., Agricultural Economics — Kansas State University (2011–2015)\n\nAdvisors: Chuanren Liu, Yuanyang Liu\nJob Market: I am on the 2026–2027 academic job market."
+  },
+  {
+    "objectID": "index.html#pedro-masi",
+    "href": "index.html#pedro-masi",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "I am a PhD Student in Business Analytics and Statistics at the Haslam College of Business, University of Tennessee, Knoxville. My research lies at the intersection of AI and causal inference. I apply text mining and embedding techniques to measure technology adoption and its impact on labor and financial outcomes, converting unstructured patent and job-posting text into structured representations that feed econometric models estimating the effects of AI exposure on skill value and firm capital investments.\nResearch Fields - Causal Inference - Machine Learning & Representation Learning - Natural Language Processing (NLP)\nEducation\n\nPhD, Business Analytics and Statistics — University of Tennessee, Knoxville (2023–Present)\nM.S., Finance and Technology — Vrije Universiteit Amsterdam (2020–2021)\nM.S., Agricultural Economics — Kansas State University (2017–2019)\nB.A., Agricultural Economics — Kansas State University (2011–2015)\n\nAdvisors: Chuanren Liu, Yuanyang Liu\nJob Market: I am on the 2026–2027 academic job market."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "extracurricular.html",
+    "href": "extracurricular.html",
+    "title": "Extracurricular",
+    "section": "",
+    "text": "Volunteer, Spring 2023\nAssisted in teaching basic robotics concepts to elementary school students, including programming and building simple robots, while fostering enthusiasm for STEM subjects through interactive and engaging activities.\nRead more about the workshop"
+  },
+  {
+    "objectID": "extracurricular.html#stem-outreach",
+    "href": "extracurricular.html#stem-outreach",
+    "title": "Extracurricular",
+    "section": "",
+    "text": "Volunteer, Spring 2023\nAssisted in teaching basic robotics concepts to elementary school students, including programming and building simple robots, while fostering enthusiasm for STEM subjects through interactive and engaging activities.\nRead more about the workshop"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "Pedro Masi, Yuanyang Liu, and Chuanren Liu\nStatus: Under review — Information Systems Research (ISR)\nUnderstanding how AI reshapes the market value of skills is essential for guiding effective workforce responses to labor market disruptions. We examine two dimensions of skill market value — skill demand intensity (the frequency with which employers require a skill) and skill wage premium (the salary differential associated with possessing a skill) — across a comprehensive set of over 20,000 skills in 442 skill categories. To this end, we measure occupational AI exposure using dynamic LLM embeddings that capture the textual similarity between AI patent descriptions and O*NET occupational task descriptions. Drawing on 347 million U.S. job postings from 2010 to 2023 and employing a two-stage least squares approach with a breakthrough patent instrumental variable, we find three main results. First, occupations with greater AI exposure exhibit stronger employer demand for both human-centric skills (e.g., critical thinking, communication) and foundational computer science skills. Second, only computer science and system design skills command higher wage premiums in response to AI exposure; human-centric skills, despite rising in demand, do not generate corresponding salary rewards. Third, both dimensions exhibit meaningful heterogeneity across occupations and job zones: management occupations experience broad upskilling across human-centric, technical, and domain skills, while computer occupations face rising demand for critical thinking yet negative salary premiums for those same skills. These findings reconcile conflicting narratives in the literature by showing that AI can simultaneously increase the importance of skills while failing to raise their monetary value, thereby producing both upskilling and deskilling effects depending on the dimension considered. Our empirical framework offers a dynamic tool for tracking AI-driven changes in market value of job skills to inform hiring strategy, education policy, and workforce development.\n\n\n\nPedro Masi, Howard Zhong, Yuanyang Liu, and Chuanren Liu\nStatus: In preparation — target MIS Quarterly (MISQ)\nWe examine how firms’ AI skill adoption aligns with competitors’ choices and how this alignment influences their ability to attract capital investment. We propose a novel firm-level herding measure constructed from employee AI skills observed in Revelio Labs workforce profile data, capturing the degree to which firms follow peers in accumulating AI talent. We find that when AI herding is coupled with potential absorptive capacity, firms attract approximately $630,000 more in capital investment. To our knowledge, this is the first study to link AI skill herding to firms’ capital investment outcomes, demonstrating that the returns to imitation depend critically on the firm’s ability to acquire and assimilate external AI knowledge."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "Pedro Masi, Yuanyang Liu, and Chuanren Liu\nStatus: Under review — Information Systems Research (ISR)\nUnderstanding how AI reshapes the market value of skills is essential for guiding effective workforce responses to labor market disruptions. We examine two dimensions of skill market value — skill demand intensity (the frequency with which employers require a skill) and skill wage premium (the salary differential associated with possessing a skill) — across a comprehensive set of over 20,000 skills in 442 skill categories. To this end, we measure occupational AI exposure using dynamic LLM embeddings that capture the textual similarity between AI patent descriptions and O*NET occupational task descriptions. Drawing on 347 million U.S. job postings from 2010 to 2023 and employing a two-stage least squares approach with a breakthrough patent instrumental variable, we find three main results. First, occupations with greater AI exposure exhibit stronger employer demand for both human-centric skills (e.g., critical thinking, communication) and foundational computer science skills. Second, only computer science and system design skills command higher wage premiums in response to AI exposure; human-centric skills, despite rising in demand, do not generate corresponding salary rewards. Third, both dimensions exhibit meaningful heterogeneity across occupations and job zones: management occupations experience broad upskilling across human-centric, technical, and domain skills, while computer occupations face rising demand for critical thinking yet negative salary premiums for those same skills. These findings reconcile conflicting narratives in the literature by showing that AI can simultaneously increase the importance of skills while failing to raise their monetary value, thereby producing both upskilling and deskilling effects depending on the dimension considered. Our empirical framework offers a dynamic tool for tracking AI-driven changes in market value of job skills to inform hiring strategy, education policy, and workforce development.\n\n\n\nPedro Masi, Howard Zhong, Yuanyang Liu, and Chuanren Liu\nStatus: In preparation — target MIS Quarterly (MISQ)\nWe examine how firms’ AI skill adoption aligns with competitors’ choices and how this alignment influences their ability to attract capital investment. We propose a novel firm-level herding measure constructed from employee AI skills observed in Revelio Labs workforce profile data, capturing the degree to which firms follow peers in accumulating AI talent. We find that when AI herding is coupled with potential absorptive capacity, firms attract approximately $630,000 more in capital investment. To our knowledge, this is the first study to link AI skill herding to firms’ capital investment outcomes, demonstrating that the returns to imitation depend critically on the firm’s ability to acquire and assimilate external AI knowledge."
+  },
+  {
+    "objectID": "research.html#conference-presentations-invited-talks",
+    "href": "research.html#conference-presentations-invited-talks",
+    "title": "Pedro Masi",
+    "section": "Conference Presentations & Invited Talks",
+    "text": "Conference Presentations & Invited Talks\n\n“Herding Toward AI” — Americas’ Conference on Information Systems (AMCIS), Reno, NV, August 2026 (accepted, forthcoming)\n“AI and the Market Value of Skills” — DePaul Doctoral/Junior Faculty Research Symposium, Chicago, IL, March 2026\n“AI Upskills Human-Centric and Fundamental Computer Science Knowledge”\n\nWorkshop on Information Technologies & Systems (WITS), Nashville, TN, Dec 2025\nConference of Information Systems & Technology (CIST), Atlanta, GA, Oct 2025\n\n“Tracking the New Frontiers of Work in Tennessee” — AI Tennessee Workshop, Knoxville, TN, Jan 2025\n“AI Talk: Can Executives Keep Their Promises?” — INFORMS Annual Conference, Seattle, WA, Oct 2024\n“AI for Business Innovation” — Business Analytics Forum, UTK, Aug 2024"
+  },
+  {
+    "objectID": "research.html#grants",
+    "href": "research.html#grants",
+    "title": "Research",
+    "section": "Grants",
+    "text": "Grants\nAI Tennessee Initiative Seed Grant — Collaborator. Research on Artificial Intelligence and the Future of Work; supervised master’s students and contributed to research design and dashboard-based data visualization."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "Course\nTitle\nSemester\nSyllabus\n\n\n\n\nSTAT 201\nIntroduction to Statistics\nFall 2025\nPDF\n\n\n\n\n\n\n“This past semester with you havs been incredibly fun, and I’ve learned how much you truly care for the students you teach! It truly is professors like you who build the great culture we have at UTK!” — Full review (PDF)\n\n\n“First off, I would like to thank you for your persistence in teaching such a large class and an arguably difficult topic. Your hard work and dedication have helped me learn statistics better than I have been able to in the past few times I’ve taken it. It has been a blessing to be in your class.”\n\n\n“Pedro is the nicest and most helpful professor. He is willing to drop everything and get on a zoom to help at anytime and that is so rare. I am so thankful that I had Professor Masi as my Stats professor, he was the best!”"
+  },
+  {
+    "objectID": "teaching.html#instructor-of-record",
+    "href": "teaching.html#instructor-of-record",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "Course\nTitle\nSemester\nSyllabus\n\n\n\n\nSTAT 201\nIntroduction to Statistics\nFall 2025\nPDF\n\n\n\n\n\n\n“This past semester with you havs been incredibly fun, and I’ve learned how much you truly care for the students you teach! It truly is professors like you who build the great culture we have at UTK!” — Full review (PDF)\n\n\n“First off, I would like to thank you for your persistence in teaching such a large class and an arguably difficult topic. Your hard work and dedication have helped me learn statistics better than I have been able to in the past few times I’ve taken it. It has been a blessing to be in your class.”\n\n\n“Pedro is the nicest and most helpful professor. He is willing to drop everything and get on a zoom to help at anytime and that is so rare. I am so thankful that I had Professor Masi as my Stats professor, he was the best!”"
+  },
+  {
+    "objectID": "teaching.html#guest-lectures",
+    "href": "teaching.html#guest-lectures",
+    "title": "Pedro Masi",
+    "section": "Guest Lectures",
+    "text": "Guest Lectures\n\n“Clustering Techniques” — Data Mining (BZAN 542), UTK, Sept 2025\n“Probability Theory” — Introductory Statistics (STAT 201), UTK, Mar 2025"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant-university-of-tennessee",
+    "href": "teaching.html#teaching-assistant-university-of-tennessee",
+    "title": "Pedro Masi",
+    "section": "Teaching Assistant — University of Tennessee",
+    "text": "Teaching Assistant — University of Tennessee\n\n\n\nCourse\nTitle\nInstructor\nSemester\n\n\n\n\nSTAT 505\nQuantitative Methods MBA\nProf. Allen Pannell\nSpring 2026\n\n\nBZAN 557\nText Mining\nProf. Wenjun Zhou\nSpring 2026\n\n\nSTAT 201\nIntroduction to Statistics\nProf. Adam Spanbauer\nSummer 2025\n\n\nBUAD 503\nBusiness Communications MBA\nProf. Angel Norman\nSummer 2024\n\n\nBZAN 555\nSupply Chain Analytics\nProf. Sean Willems\nSpring 2024\n\n\nBZAN 542\nData Mining Methods\nProf. ChuanRen Liu\nFall 2023"
+  },
+  {
+    "objectID": "research.html#papers-in-progress",
+    "href": "research.html#papers-in-progress",
+    "title": "Pedro Masi",
+    "section": "Papers in Progress",
+    "text": "Papers in Progress\n\nDecoding AI Innovation: A Transformer-Based Approach to Patent Landscaping\nPedro Masi, Yuanyang Liu, and Chuanren Liu\nStatus: In preparation for submission"
+  },
+  {
+    "objectID": "grants_awards.html",
+    "href": "grants_awards.html",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "AI Tennessee Initiative Seed Grant — Collaborator\nResearch on Artificial Intelligence and the Future of Work; supervised master’s students and contributed to research design and dashboard-based data visualization.\nProject Website\n\n\n\n\n“Pedro is very insightful and has helped me to improve my analytics abilities greatly during my time with this research project. Very glad I was able to be a part of it.”\n\n\n“Pedro is super accessible and does a good job at guiding efforts without over managing them.”\n\n\n“Pedro is very kind and is a key part of the team atmosphere being open and enjoyable.”"
+  },
+  {
+    "objectID": "grants_awards.html#grants",
+    "href": "grants_awards.html#grants",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "AI Tennessee Initiative Seed Grant — Collaborator\nResearch on Artificial Intelligence and the Future of Work; supervised master’s students and contributed to research design and dashboard-based data visualization.\nProject Website\n\n\n\n\n“Pedro is very insightful and has helped me to improve my analytics abilities greatly during my time with this research project. Very glad I was able to be a part of it.”\n\n\n“Pedro is super accessible and does a good job at guiding efforts without over managing them.”\n\n\n“Pedro is very kind and is a key part of the team atmosphere being open and enjoyable.”"
+  },
+  {
+    "objectID": "grants_awards.html#awards-scholarships",
+    "href": "grants_awards.html#awards-scholarships",
+    "title": "Pedro Masi",
+    "section": "Awards & Scholarships",
+    "text": "Awards & Scholarships\n\nGraduate Research Award — Americas Conference on Information Systems (AMCIS), August 2026\n\n\nGraduate Research Award — DePaul Doctoral/Junior Faculty Research Symposium, March 2026\n\n\nHaslam College of Business Travel Award — Workshop on Information Technologies and Systems (WITS), October 2025\n\n\nGraduate Student Senate Award — Conference on Information Systems and Technology (CIST), October 2025\n\n\nGraduate Student Senate Award — INFORMS Annual Meeting, October 2024\n\n\nEuropean Investment Bank Summer School Fellowship — European Investment Bank (EIB), June–July 2021"
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "Volunteer, Spring 2024\nAssisted in teaching basic robotics concepts to elementary school students, including programming and building simple robots, while fostering enthusiasm for STEM subjects through interactive and engaging activities.\nRead more about the workshop"
+  },
+  {
+    "objectID": "service.html#stem-outreach",
+    "href": "service.html#stem-outreach",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "Volunteer, Spring 2024\nAssisted in teaching basic robotics concepts to elementary school students, including programming and building simple robots, while fostering enthusiasm for STEM subjects through interactive and engaging activities.\nRead more about the workshop"
+  },
+  {
+    "objectID": "service.html#reviewer-service",
+    "href": "service.html#reviewer-service",
+    "title": "Pedro Masi",
+    "section": "Reviewer Service",
+    "text": "Reviewer Service\n\nJournal of Management Information Systems\nInformation Systems Research\nMIS Quarterly"
+  },
+  {
+    "objectID": "service.html#academic-service",
+    "href": "service.html#academic-service",
+    "title": "Pedro Masi",
+    "section": "Academic Service",
+    "text": "Academic Service\n\nReviewer, Pacific Asia Conference on Information Systems (PACIS), 2026.\nReviewer, Workshop on Information Technologies and Systems (WITS), 2026."
+  },
+  {
+    "objectID": "index.html#biography",
+    "href": "index.html#biography",
+    "title": "Pedro Masi",
+    "section": "",
+    "text": "I am a PhD Student in Business Analytics and Statistics at the Haslam College of Business, University of Tennessee, Knoxville. My research lies at the intersection of AI and causal inference. I apply text mining and embedding techniques to measure technology adoption and its impact on labor and financial outcomes, converting unstructured patent and job-posting text into structured representations that feed econometric models estimating the effects of AI exposure on skill value and firm capital investments.\nResearch Fields\n\nCausal Inference\nMachine Learning & Representation Learning\nNatural Language Processing (NLP)\n\nEducation\n\nPhD, Business Analytics and Statistics — University of Tennessee, Knoxville (2023–Present)\nM.S., Finance and Technology — Vrije Universiteit Amsterdam (2020–2021)\nM.S., Agricultural Economics — Kansas State University (2017–2019)\nB.A., Agricultural Economics — Kansas State University (2011–2015)\n\nAdvisors: Chuanren Liu, Yuanyang Liu\nJob Market: I am on the 2026–2027 academic job market."
+  }
+]

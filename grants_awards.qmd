@@ -1,0 +1,50 @@
+---
+title: ""
+pagetitle: "Grants & Awards – Pedro Masi"
+---
+
+## Grants
+
+::: {.paper-entry}
+**AI Tennessee Initiative Seed Grant** — Collaborator
+
+Research on Artificial Intelligence and the Future of Work; supervised master's students and contributed to research design and dashboard-based data visualization.
+
+[Project Website](https://ai.haslam.utk.edu/future-of-work/)
+:::
+
+### Master's Student Feedback
+
+> "Pedro is very insightful and has helped me to improve my analytics abilities greatly during my time with this research project. Very glad I was able to be a part of it." 
+
+> "Pedro is super accessible and does a good job at guiding efforts without over managing them." 
+
+> "Pedro is very kind and is a key part of the team atmosphere being open and enjoyable." 
+
+---
+
+## Awards & Scholarships
+
+::: {.paper-entry}
+**Graduate Research Award** — Americas Conference on Information Systems (AMCIS), August 2026
+:::
+
+::: {.paper-entry}
+**Graduate Research Award** — DePaul Doctoral/Junior Faculty Research Symposium, March 2026
+:::
+
+::: {.paper-entry}
+**Haslam College of Business Travel Award** — Workshop on Information Technologies and Systems (WITS), October 2025
+:::
+
+::: {.paper-entry}
+**Graduate Student Senate Award** — Conference on Information Systems and Technology (CIST), October 2025
+:::
+
+::: {.paper-entry}
+**Graduate Student Senate Award** — INFORMS Annual Meeting, October 2024
+:::
+
+::: {.paper-entry}
+**European Investment Bank Summer School Fellowship** — European Investment Bank (EIB), June–July 2021
+:::
