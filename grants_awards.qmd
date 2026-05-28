@@ -6,9 +6,11 @@ pagetitle: "Grants & Awards – Pedro Masi"
 ## Grants
 
 ::: {.paper-entry}
-**AI Tennessee Initiative Seed Grant** — Collaborator
+**AI Tennessee Initiative Seed Funds: Tracking the New Frontiers of Work in Tennessee**
 
-Coordinated research on Artificial Intelligence and the Future of Work, overseeing project management and research design; conducted empirical economic modeling, data collection, and analysis; developed dashboard-based data visualizations; contributed to peer-reviewed publications and research presentations; and supervised 4 masters students.
+Liu, Chuanren. (Lead PI), Liu, Yuanyang (Co-PI). Total Award: $64,800, 2024–2025. **Collaborator.**
+
+Responsibilities include coordinating research efforts and providing overall management of project activities; leading empirical economic modeling; conducting economic analysis; overseeing data collection and management; presenting research findings and writing peer-reviewed publications; and supervising four M.S. students.
 
 [Project Website](https://ai.haslam.utk.edu/future-of-work/)
 :::
