@@ -1,5 +1,6 @@
 ---
 title: ""
+page-layout: full
 ---
 
 :::: {.columns}
@@ -9,16 +10,19 @@ title: ""
 
 <p style="margin-top:0.6em; margin-bottom:0;">
 <strong style="font-size:1.05em;">Pedro Masi</strong><br>
-<span style="font-size:0.88em;">PhD Student, Information Systems</span><br>
-<span style="font-size:0.88em;">University of Tennessee</span><br>
-<span style="font-size:0.88em;"><span style="vertical-align:middle;">📍</span> Knoxville, TN</span>
+<span style="font-size:0.88em;">PhD Student, Information Systems</span>
 </p>
+
+<div class="contact-list">
+<div class="contact-row"><i class="bi bi-geo-alt-fill"></i><span>Knoxville, TN</span></div>
+<div class="contact-row"><i class="bi bi-mortarboard-fill"></i><span>University of Tennessee</span></div>
+<div class="contact-row"><i class="bi bi-envelope-fill"></i><span><a href="mailto:pmmasig@gmail.com">Email Me</a></span></div>
+<div class="contact-row"><i class="bi bi-linkedin"></i><span><a href="https://www.linkedin.com/in/pedro-masi/" target="_blank" rel="noopener">LinkedIn</a></span></div>
+</div>
 
 <p style="font-size:0.85em; line-height:2.0; margin-top:0.6em;">
 [CV (PDF)](cv.qmd)<br>
-[LinkedIn](https://www.linkedin.com/in/pedro-masi/)<br>
-[UTK Profile](https://haslam.utk.edu/people/profile/pedro-masi/)<br>
-📧 [pmmasig@gmail.com](mailto:pmmasig@gmail.com)
+[UTK Profile](https://haslam.utk.edu/people/profile/pedro-masi/)
 </p>
 :::
 

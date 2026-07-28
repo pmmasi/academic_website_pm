@@ -9,7 +9,9 @@
 
 Pedro Masi, Yuanyang Liu, and Chuanren Liu
 
-**Status:** Under review — *Information Systems Research* (ISR)
+**Status:** R&R, Major Revision — *Information Systems Research* (ISR)
+
+<span class="presented-placeholder">Presented: Workshop on Information Technologies & Systems (WITS), Nashville, TN, Dec 2025; Conference of Information Systems & Technology (CIST), Atlanta, GA, Oct 2025;</span>
 
 Understanding how AI reshapes the market value of skills is essential for
 guiding effective workforce responses to labor market disruptions. We examine two
@@ -44,7 +46,12 @@ Pedro Masi, Howard Zhong, Yuanyang Liu, and Chuanren Liu
 
 **Status:** In preparation — target *MIS Quarterly* (MISQ)
 
-We examine how firms' AI skill adoption aligns with competitors' choices and how this alignment influences their ability to attract capital investment. We propose a novel firm-level herding measure constructed from employee AI skills observed in Revelio Labs workforce profile data, capturing the degree to which firms follow peers in accumulating AI talent. We find that when AI herding is coupled with potential absorptive capacity, firms attract approximately $630,000 more in capital investment. To our knowledge, this is the first study to link AI skill herding to firms' capital investment outcomes, demonstrating that the returns to imitation depend critically on the firm's ability to acquire and assimilate external AI knowledge.
+<span class="presented-placeholder">Presented: Americas’ Conference on Information Systems (AMCIS), Reno, NV, August 2026 (accepted, forthcoming);  Computational Methods in Management Research Workshop, University of Notre
+Dame (AIS SIG TECH), June 2026; DePaul Doctoral/Junior Faculty Research Symposium, Chicago, IL, March 2026; </span>
+
+Firms increasingly respond to competitive pressure in AI adoption by aligning their AI hiring practices with those of their peers, which extends classic herding behavior from individuals to organizations. However, it remains unclear whether capital markets reward these visible signals of AI strategic positioning.
+Using firm-level data on AI skill demand from job postings linked to startup capital investment outcomes, we examine how alignment with peer AI hiring patterns shapes capital allocation. We find that firms that exhibit stronger AI-skill herding attract greater capital, which indicates that mimicking AI talent can serve as an effective signal to investors.
+We also show that this association is significantly stronger for firms with a robust STEM workforce, which indicates that a deep base of scientific and engineering talent enhances the credibility of AI hiring signals. In contrast, proximity to external sources of AI innovation does not systematically strengthen this relationship. Finally, we show that the benefits of AI hiring alignment depend on the perceived quality of firms in capital markets, specifically, lower-quality firms experience stronger gains from aligning with peer hiring patterns, while higher-quality firms do not derive additional advantages.
 :::
 
 ---
