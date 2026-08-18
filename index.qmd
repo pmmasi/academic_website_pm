@@ -10,7 +10,7 @@ page-layout: full
 
 <p style="margin-top:0.6em; margin-bottom:0;">
 <strong style="font-size:1.05em;">Pedro Masi</strong><br>
-<span style="font-size:0.88em;">PhD Student, Information Systems</span>
+<span style="font-size:0.88em;">PhD Student, Business Analytics &amp; Statistics</span>
 </p>
 
 <div class="contact-list">
@@ -49,6 +49,8 @@ I am a PhD Student in Business Analytics and Statistics at the Haslam College of
 - B.A., Agricultural Economics — Kansas State University (2011–2015)
 
 **Advisors:** Chuanren Liu, Yuanyang Liu
+
+**Committee Members:** Chuanren Liu, Yuanyang Liu, Hao (Howard) Zhong, Matthew Henriksson
 
 **Job Market:** I am on the 2026–2027 academic job market.
 
