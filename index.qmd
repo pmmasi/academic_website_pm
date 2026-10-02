@@ -10,7 +10,7 @@ page-layout: full
 
 <p style="margin-top:0.6em; margin-bottom:0;">
 <strong style="font-size:1.05em;">Pedro Masi</strong><br>
-<span style="font-size:0.88em;">PhD Student, Business Analytics &amp; Statistics</span>
+<span style="font-size:0.88em;">PhD Candidate, Business Analytics &amp; Statistics</span>
 </p>
 
 <div class="contact-list">
@@ -33,24 +33,25 @@ page-layout: full
 
 ## Biography
 
-I am a PhD Student in Business Analytics and Statistics at the Haslam College of Business, University of Tennessee, Knoxville. My research lies at the intersection of AI and causal inference. I apply text mining and embedding techniques to measure technology adoption and its impact on labor and financial outcomes, converting unstructured patent and job-posting text into structured representations that feed econometric models estimating the effects of AI exposure on skill value and firm capital investments.
+I am a PhD Candidate in Business Analytics and Statistics at the Haslam College of Business, University of Tennessee, Knoxville, where I am advised by [Chuanren Liu](https://datalab.utk.edu/charles-liu/) and [Yuanyang Liu](https://sites.google.com/site/yuanyangliuhome). My research sits at the intersection of artificial intelligence and causal inference, using text mining and embedding methods to measure technology adoption and trace its effects on labor and financial outcomes. I convert unstructured patent and job-posting text into structured representations that feed econometric models estimating how AI exposure shapes skill value and firm capital investment.
 
 **Research Fields**
 
 - Causal Inference 
 - Machine Learning & Representation Learning
 - Natural Language Processing (NLP)
+- Network Analysis
 
 **Education**
 
 - PhD, Business Analytics and Statistics — University of Tennessee, Knoxville (2023–Present)
 - M.S., Finance and Technology — Vrije Universiteit Amsterdam (2020–2021)
-- M.S., Agricultural Economics — Kansas State University (2017–2019)
-- B.A., Agricultural Economics — Kansas State University (2011–2015)
+- M.S., Applied Economics — Kansas State University (2017–2019)
+- B.A., Applied Economics — Kansas State University (2011–2015)
 
-**Advisors:** Chuanren Liu, Yuanyang Liu
+**Advisors:** [Chuanren Liu](https://datalab.utk.edu/charles-liu/), [Yuanyang Liu](https://sites.google.com/site/yuanyangliuhome)
 
-**Committee Members:** Chuanren Liu, Yuanyang Liu, Hao (Howard) Zhong, Matthew Henriksson
+**Committee Members:** [Chuanren Liu](https://datalab.utk.edu/charles-liu/), [Yuanyang Liu](https://sites.google.com/site/yuanyangliuhome), Hao (Howard) Zhong, Matthew Henriksson
 
 **Job Market:** I am on the 2026–2027 academic job market.
 
