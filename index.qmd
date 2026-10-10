@@ -33,7 +33,7 @@ page-layout: full
 
 ## Biography
 
-I am a PhD Candidate in Business Analytics and Statistics at the Haslam College of Business, University of Tennessee, Knoxville, where I am advised by [Chuanren Liu](https://datalab.utk.edu/charles-liu/) and [Yuanyang Liu](https://sites.google.com/site/yuanyangliuhome). My research sits at the intersection of artificial intelligence and causal inference, using text mining and embedding methods to measure technology adoption and trace its effects on labor and financial outcomes. I convert unstructured patent and job-posting text into structured representations that feed econometric models estimating how AI exposure shapes skill value and firm capital investment.
+I am a PhD Candidate in the [Department of Business Analytics and Statistics](https://haslam.utk.edu/business-analytics-statistics/) at the [Haslam College of Business] (https://haslam.utk.edu/), [University of Tennessee, Knoxville](https://www.utk.edu/), where I am advised by [Chuanren Liu](https://datalab.utk.edu/charles-liu/) and [Yuanyang Liu](https://sites.google.com/site/yuanyangliuhome). My research sits at the intersection of artificial intelligence and causal inference, using text mining and embedding methods to measure technology adoption and trace its effects on labor and financial outcomes. I convert unstructured patent and job-posting text into structured representations that feed econometric models estimating how AI exposure shapes skill value and firm capital investment.
 
 **Research Fields**
 
