@@ -16,6 +16,7 @@ page-layout: full
 <div class="contact-list">
 <div class="contact-row"><i class="bi bi-geo-alt-fill"></i><span>Knoxville, TN</span></div>
 <div class="contact-row"><i class="bi bi-mortarboard-fill"></i><span>University of Tennessee</span></div>
+<div class="contact-row"><i class="bi bi-patch-check-fill"></i><span>U.S. Permanent Resident</span></div>
 <div class="contact-row"><i class="bi bi-envelope-fill"></i><span><a href="mailto:pmmasig@gmail.com">Email Me</a></span></div>
 <div class="contact-row"><i class="bi bi-linkedin"></i><span><a href="https://www.linkedin.com/in/pedro-masi/" target="_blank" rel="noopener">LinkedIn</a></span></div>
 </div>
